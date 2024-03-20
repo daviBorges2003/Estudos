@@ -1,0 +1,8 @@
+.Secundary_carrossel{
+    padding-top: 20px;
+}
+.Card:hover{
+    scale: 1.02;
+    transition: 0.4s;
+    cursor: pointer ;
+}
